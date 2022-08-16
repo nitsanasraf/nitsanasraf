@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [DebateMaster]()  
   
 
-- 🌱 I’m currently learning Vapor and RxSwift  
+- 🌱 I’m currently learning Vapor
   
 
 - ⚡ Fun fact: I use tabs over spaces  
