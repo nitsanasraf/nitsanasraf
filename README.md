@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [DebateMaster](https://github.com/nitsanasraf/DebateMaster)  
   
 
-- 🌱 I’m currently learning Vapor
+- 🌱 I’m currently learning Vapor and GraphQL
   
 
 - ⚡ Fun fact: I use tabs over spaces  
