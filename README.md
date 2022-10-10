@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Convos](https://github.com/nitsanasraf/Convos)  
   
 
-- 🌱 I’m currently learning Flask and SwiftUI
+- 🌱 I’m currently learning Flask
     
 
 <br/>  
