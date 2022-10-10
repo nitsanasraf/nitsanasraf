@@ -4,11 +4,8 @@
 - 🔭 I’m currently working on [Convos](https://github.com/nitsanasraf/Convos)  
   
 
-- 🌱 I’m currently learning Vapor and GraphQL
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 🌱 I’m currently learning Flask and SwiftUI
+    
 
 <br/>  
 
