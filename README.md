@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on [Convos](https://github.com/nitsanasraf/Convos)  
   
+- 🧠 I know Swift / SwiftUI / UIKit (AutoLayout & Storyboards)
 
-- 🌱 I’m currently learning Flask
-    
+- 🌱 I’m currently learning Python + Flask & Combine
+   
 
 <br/>  
 
