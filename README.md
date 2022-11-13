@@ -5,7 +5,7 @@
   
 - 🧠 I know Swift / SwiftUI / UIKit (AutoLayout & Storyboards)
 
-- 🌱 I’m currently learning Python + Flask & Combine
+- 🌱 I’m currently learning Combine
    
 
 <br/>  
