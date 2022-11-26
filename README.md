@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Convos](https://github.com/nitsanasraf/Convos)  
   
-- 🧠 I mostly skilled at Swift, SwiftUI, UIKit (AutoLayout & Storyboards) and Flask
+- 🧠 I mostly skilled at Swift, SwiftUI, UIKit and Flask
 
 - 🌱 I’m currently learning Combine 
    
